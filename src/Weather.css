@@ -1,3 +1,6 @@
 .weather {
   border: 1px solid lightgrey;
 }
+ul {
+  list-style: none;
+}
