@@ -10,7 +10,9 @@ function App() {
           <a href="https://www.linkedin.com/in/lior-bar-018186149/">
             Lior Bar and is{" "}
           </a>
-          <a href="">open source on GitHub</a>
+          <a href="https://github.com/LiorBar230/react-weather-app-lior-bar">
+            open source on GitHub
+          </a>
         </footer>
       </div>
     </div>
