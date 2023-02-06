@@ -23,7 +23,7 @@
   line-height: 20px;
   list-style: none;
 }
-.weather canvas {
+.WeatherTempUnit canvas {
   height: 50px;
   width: 50px;
   margin-right: 10px;
@@ -32,14 +32,14 @@
   top: -5px;
 }
 
-.weather .temperature {
+.WeatherTempUnit .temperature {
   color: black;
   font-weight: 400;
   font-size: 64px;
   line-height: 64px;
 }
 
-.weather .unit {
+.WeatherTempUnit .unit {
   color: black;
   font-size: 16px;
   font-weight: 400;
