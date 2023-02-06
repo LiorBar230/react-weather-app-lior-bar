@@ -14,6 +14,11 @@ function App() {
           and is{" "}
           <a href="https://github.com/LiorBar230/react-weather-app-lior-bar">
             open source on GitHub
+          </a>{" "}
+          and
+          <a href="https://brilliant-wisp-f9cee6.netlify.app">
+            {" "}
+            hosted on Netlify
           </a>
         </footer>
       </div>
